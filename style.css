@@ -1,0 +1,521 @@
+.sett {
+  display: flex;
+  gap: 29px;
+  list-style: none;
+}
+.head {
+  width: 500px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin: 40px 0px 14px 0px;
+  color: rgb(49, 173, 49);
+  font-size: 70px;
+  
+}
+.para {
+  width: 550px;
+  font-size: 20px;
+  font-weight: 500;
+  opacity: 0.5;
+}
+.btun {
+  width: 130px;
+  height: 40px;
+  border: none;
+  margin-top: 20px;
+  border-radius: 23px;
+  background-color: rgb(49, 173, 49);
+  color: white;
+}
+.pic {
+  width: 350px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.abc {
+  width: 450px;
+  margin-top: 70px;
+  margin-right: 30px;
+}
+.trus {
+  margin-top: 50px;
+  margin-left: 120px;
+}
+.trust {
+  opacity: 0.5;
+  font-weight: 500;
+}
+.container2 {
+  display: flex;
+  margin-left: 120px;
+  margin-top: 90px;
+}
+.upwrk {
+  width: 650px;
+  border-radius: 20px;
+}
+.wrks {
+  margin-left: 30px;
+}
+.its {
+  font-weight: 600;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+}
+.cos {
+  margin-top: 15px;
+}
+.hir {
+  border: 3px solid green;
+  width: 190px;
+  height: 40px;
+  border-radius: 20px;
+  margin-left: 20px;
+}
+.for {
+  margin-top: 20px;
+  border: none;
+  width: 150px;
+  height: 40px;
+  color: white;
+  border-radius: 20px;
+  background-color: rgb(25, 157, 25);
+}
+.for:hover {
+  background-color: rgb(9, 120, 20);
+}
+.job {
+  margin-left: 120px;
+  margin-top: 60px;
+}
+.by {
+  font-weight: bold;
+  font-size: 40px;
+  margin-top: 70px !important;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.sob {
+  color: green;
+  text-decoration: underline;
+}
+.custom {
+  border: none;
+  width: 90%;
+}
+.custom :hover {
+  color: white;
+  background-color: #4c824c;
+}
+.cols {
+  color: green;
+}
+.REMIND {
+  margin-top: 40px !important;
+  height: 140px;
+  padding: 19px !important;
+  width: 290px !important;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  margin-left: 20px !important;
+}
+.REMIND2 {
+  margin-top: 40px !important;
+  height: 140px;
+  padding: 19px !important;
+  width: 290px !important;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  margin-left: 20px !important;
+}
+.REMINDs {
+  height: 140px;
+  margin-top: 40px !important;
+  padding: 19px !important;
+  width: 295px !important;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+  margin-left: 120px !important;
+}
+.kujiu {
+  margin-top: 20px;
+}
+.skl {
+  margin-left: 18px;
+}
+.ikmj {
+  display: flex !important;
+}
+.efwa {
+  color: white !important;
+  margin-left: 105px !important;
+  margin-top: 50px !important;
+  background-color: rgb(11, 106, 92) !important;
+  width: 81%;
+  height: 544px !important;
+  border-radius: 11px !important;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.adaf {
+  width: 170% !important;
+  margin-left: 165px;
+  height: 100%;
+  border-radius: 10px;
+}
+.ihjnl {
+  padding: 30px !important;
+}
+.akdj {
+  width: 540px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 50px;
+}
+.askj {
+  color: rgb(40, 160, 106);
+}
+.iedn {
+  width: 150px;
+  border: none;
+  color: rgb(11, 106, 92);
+  border-radius: 20px;
+  height: 37px;
+  font-size: 17px;
+  margin-top: 9px;
+}
+.wkjh {
+  margin-top: 70px;
+  width: 1230px;
+  border-radius: 20px !important;
+  height: 580px !important;
+  margin-left: 105px;
+  margin-bottom: 30px;
+  color: white !important;
+}
+.ksjerf {
+  height: 660px;
+
+  border-radius: 20px !important;
+}
+.kjaf {
+  padding: 10px;
+  font-size: 30px;
+}
+.kjze {
+  margin-top: 10px;
+  width: 550px;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px;
+  word-spacing: 3px !important;
+}
+.jgdd {
+  padding: 10px;
+  margin-top: 120px;
+  width: 400px;
+  font-weight: 600;
+  font-size: 60px !important;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.ajkfh {
+  margin-top: -120px !important;
+  position: relative;
+
+  color: white !important;
+  margin-left: 131px !important;
+}
+.kadh {
+  width: 370px !important;
+  height: 140px;
+  border-radius: 24px;
+  background-color: green;
+}
+.jhdf {
+  width: 230px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 30px !important;
+}
+.ikjf {
+  padding: 10px;
+}
+
+.kadhk {
+  width: 392px !important;
+  height: 140px;
+  border-radius: 14px;
+  background-color: green;
+  margin-left: 19px !important;
+}
+.kadha {
+  width: 380px !important;
+  height: 140px;
+  border-radius: 14px;
+  background-color: green;
+  margin-left: 19px !important;
+}
+.ajkfh :hover {
+  background-color: white;
+  color: green;
+}
+.afae {
+  background-color: #f4f4f4;
+  border-radius: 16px;
+}
+
+.wiej {
+  display: flex;
+
+  margin-top: 120px;
+}
+.kawj {
+  margin-left: 100px;
+  width: 800px;
+  height: 650px;
+  border-radius: 17px;
+  background-color: #f4f4f4;
+}
+.AKkJh {
+  padding: 40px;
+  margin-top: 20px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 60px;
+  font-weight: bold;
+  width: 600px;
+}
+.kasjn {
+  font-size: 40px;
+}
+.kjas {
+  position: relative;
+  bottom: 7px;
+  margin-left: 45px;
+  margin-bottom: -12px;
+  font-size: 20px;
+}
+.ekww {
+  margin-left: 80px;
+  width: 460px;
+  color: #546d52;
+}
+.akeh {
+  width: 400px;
+  color: white;
+  height: 650px;
+
+  margin-left: 30px;
+  background-color: rgb(30, 194, 30);
+  border-radius: 17px;
+}
+.CCw {
+  font-size: 28px;
+  width: 320px;
+  margin-top: 320px;
+  margin-left: 70px;
+}
+.akja {
+  margin-top: 20px;
+  margin-left: 80px;
+}
+.kjq {
+  margin-left: 80px;
+}
+.aeew {
+  font-size: 24px;
+  position: relative;
+  bottom: 5px;
+}
+.sjha {
+  margin-left: -550px;
+  height: 540px;
+  width: 300px;
+
+  margin-top: 60px;
+}
+.iewdk {
+  margin-top: 80px;
+  margin-left: 103px;
+}
+.wkjd {
+  font-size: 50px;
+  font-weight: bold;
+
+  width: 530px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.ksfj {
+  width: 81%;
+  border-radius: 20px;
+  margin-top: 50px;
+  margin-left: 100px;
+  background-color: #f4f4f4;
+  display: flex;
+}
+.ekja {
+  padding: 30px;
+}
+.iaekj {
+  font-weight: 700;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.jwaeh {
+  margin-top: 30px;
+  width: 140px;
+  text-align: center;
+  border-radius: 20px;
+  color: rgb(24, 125, 24);
+  height: 40px;
+
+  border: 3px solid rgb(22, 133, 22);
+}
+.ajh {
+  margin-left: 237px;
+}
+
+.jwha {
+  margin-top: 80px;
+  margin-left: 100px;
+  display: flex;
+}
+.wkaj {
+  cursor: pointer;
+  width: 400px;
+  font-weight: 600;
+  font-size: 40px;
+}
+.aiw {
+  color: rgb(25, 158, 25);
+}
+.saj {
+  font-size: 10px;
+  position: relative;
+  right: 10px;
+  bottom: 7px;
+}
+.skj {
+  margin-top: -20px;
+  opacity: 0.2;
+}
+.skj:hover {
+  opacity: 1;
+  color: rgb(25, 158, 25);
+}
+.skja {
+  cursor: pointer;
+  width: 400px;
+  font-size: 23px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(126, 125, 125);
+}
+.skja :hover {
+  color: rgb(25, 158, 25);
+}
+.kjakawj {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 110px;
+  width: 100%;
+  color: white;
+  background-color: rgb(0, 29, 0);
+}
+.ajha {
+  margin-top: 90px;
+  font-size: 14px;
+}
+
+.shrka:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.ajkha {
+  margin-top: 25px;
+}
+.shrka {
+  margin-top: -5px;
+}
+.ajkha:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.kjdes {
+  display: flex;
+  width: 100%;
+  color: white;
+
+  background-color: rgb(0, 29, 0);
+}
+.jaeh {
+  margin-top: 55px;
+  margin-left: 120px;
+  font-weight: 800;
+}
+.jsda {
+  margin-left: 25px;
+  margin-top: 50px;
+}
+.jsda {
+  border: 1px solid white;
+  border-radius: 50px;
+  height: 40px;
+  width: 45px;
+  font-size: 23px;
+  text-align: center;
+}
+.akwadd {
+  margin-top: 55px;
+  margin-left: 760px;
+  font-weight: bold;
+  font-size: 15px;
+  font-weight: 800;
+}
+.akje {
+  margin-top: 50px;
+  font-size: 23px;
+  border: 1px solid white;
+  border-radius: 50px;
+  height: 40px;
+  width: 48px;
+  text-align: center;
+  margin-left: 10px;
+}
+.akiiije {
+  margin-top: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  height: 40px;
+  font-size: 23px;
+  width: 48px;
+  text-align: center;
+  margin-left: 10px;
+}
+.akiiije:hover,
+.jsda:hover,
+.akje:hover {
+  background-color: rgb(118, 118, 118);
+}
+
+.JEH {
+  width: 100%;
+  background-color: rgb(0, 29, 0);
+  display: flex;
+  color: white;
+}
+.EWH {
+  margin-top: 40px;
+  margin-left: 120px;
+}
+.aejej {
+  margin-top: 40px;
+  margin-bottom: 70px;
+  margin-left: 30px;
+}
+.aejej:hover,
+.EWH:hover {
+  text-decoration: underline;
+}
